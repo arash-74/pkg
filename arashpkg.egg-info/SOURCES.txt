@@ -1,0 +1,7 @@
+setup.py
+arashpkg.egg-info/PKG-INFO
+arashpkg.egg-info/SOURCES.txt
+arashpkg.egg-info/dependency_links.txt
+arashpkg.egg-info/top_level.txt
+pkgfolder/__init__.py
+pkgfolder/pkgfile.py
